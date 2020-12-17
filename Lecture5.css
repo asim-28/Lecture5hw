@@ -1,0 +1,225 @@
+html {
+
+	background-color: black, blue, green, red;
+}
+
+title {
+
+	font-style: fantasy, serif, sans-serif; 
+
+}
+
+p {
+
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+h1 {
+
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+h2 {
+
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+h3 {
+
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+
+h4 {
+ 
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+
+h5 {
+
+	font-style: fantasy, serif, sans-serif; background-color: black, blue, green, red; border:solid, dotted;
+
+}
+
+img {
+
+	width: 150; height: 150;
+
+}
+
+span {
+    padding: 10px;
+    margin:10px;
+    border:10px solid white;
+    color: white;
+    display:inline;
+}
+
+span.b{
+
+	width:25px;
+	height:25px;
+	padding: 10px;
+    margin:10px;
+    border:1px;
+    color: white;
+    display:block;
+
+}
+
+span.c{
+
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 2px solid;
+ 
+
+}
+
+span.d{
+
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+  top: 30px;
+  right:7.5px;
+
+}
+
+a:visited {
+
+  color: black
+
+}
+
+a:hover {
+
+  color: red;
+
+}
+
+/* classes */
+
+
+.italic {
+
+	font-style: italic;
+
+} 
+
+.sans-serif {
+
+	font-style: sans-serif;
+}
+
+.serif {
+
+	font-style: serif;
+
+}
+
+.fantasy {
+
+	font-style: Fantasy;
+
+}
+
+.bold {
+
+	font-weight: bold;
+
+}
+
+.solidborder {
+
+	border:solid;
+
+
+}
+
+.dottedborder {
+
+	border:dotted;
+
+}
+
+.black {
+
+	background-color: black;
+
+}
+
+.blue {
+
+	background-color: blue;
+
+}
+
+.red {
+
+	background-color: red;
+
+}
+
+.green {
+
+	background-color: green;
+
+}
+
+.grey {
+
+	background-color: grey;
+
+}
+
+.left {
+
+	float: left;
+	text-align:left;
+
+}
+
+.right {
+
+	float: right;
+	text-align: right;
+
+}
+
+.middle {
+
+	text-align: center;
+}
+
+
+
+/* IDS */ 
+
+
+#padding {
+
+	padding: 15px;
+}
+
+#margin {
+
+	margin: 25px;
+}
+
+#solidborder1 {
+
+	border:solid;
+	
+
+}
+
+
